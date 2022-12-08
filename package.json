@@ -1,0 +1,16 @@
+{
+  "name": "yeekeetoday555",
+  "theme": "syntax",
+  "version": "1.0.35",
+  "description": "แนวทางหวยยี่กีวันนี้ พร้อม 4 เทคนิค แทงหวยยี่กี อย่างไรให้รวย อยากรู้ต้องดู",
+  "keywords": [
+    "แนวทางหวยยี่กีวันนี้",
+    "แนวทางยี่กี",
+    "แทงหวยยี่กี"
+  ],
+  "repository": "https://github.com/earthza550/yeekeetoday8898",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
